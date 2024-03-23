@@ -1,6 +1,6 @@
 # AER
 
-Code for preprint paper "A Dual Memory System for Enhanced Replay in Continual Learning".
+Code for preprint paper "Neuro-Inspired Dual Memory System for Enhanced Replay in Continual Learning".
 
 ![aer_overall](https://github.com/AlexQilong/AER/assets/108171769/7216d299-ab74-43b3-a3f6-a092e23335a0)
 
